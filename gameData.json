@@ -6,10 +6,6 @@
       "levels": {
         "easy": [
           {
-            "word": "Aphid",
-            "hint": "A minute bug that feeds by sucking sap from plants."
-          },
-          {
             "word": "Bat",
             "hint": "A mammal whose forelimbs form webbed wings, making them the only mammals naturally capable of true and sustained flight."
           },
@@ -894,9 +890,7 @@
           {
             "word": "Yak",
             "hint": "A long-haired domesticated bovid found throughout the Himalayan region of the Indian subcontinent, the Tibetan Plateau and as far north as Mongolia and Russia."
-          }
-        ],
-        "difficult": [
+          },
           {
             "word": "Boa Constrictor",
             "hint": "A species of large, heavy-bodied snake that is frequently kept and bred in captivity."
@@ -904,6 +898,12 @@
           {
             "word": "Grasshopper",
             "hint": "A group of insects belonging to the suborder Caelifera."
+          }
+        ],
+        "difficult": [
+          {
+            "word": "Aphid",
+            "hint": "A minute bug that feeds by sucking sap from plants."
           },
           {
             "word": "Guinea fowl",
@@ -956,6 +956,10 @@
           {
             "word": "Water",
             "hint": "A chemical compound with the chemical formula H\u2082O."
+          },
+          {
+            "word": "Baking Soda",
+            "hint": "A chemical compound with the formula NaHCO₃."
           }
         ],
         "normal": [
@@ -1161,10 +1165,6 @@
           }
         ],
         "difficult": [
-          {
-            "word": "Baking Soda",
-            "hint": "A chemical compound with the formula NaHCO\u2083."
-          },
           {
             "word": "Blue Vitriol",
             "hint": "The chemical compound with the chemical formula CuSO\u2084. This salt exists as a series of compounds that differ in their degree of hydration."
@@ -2830,13 +2830,13 @@
           {
             "word": "Lawn mower",
             "hint": "A machine for cutting the grass on a lawn."
-          }
-        ],
-        "difficult": [
+          },
           {
             "word": "Air Conditioner",
             "hint": "A system for cooling and dehumidifying the air in a building."
-          },
+          }
+        ],
+        "difficult": [
           {
             "word": "Bottle Opener",
             "hint": "A device for opening metal bottle caps."

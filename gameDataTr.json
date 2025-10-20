@@ -6,12 +6,62 @@
       "levels": {
         "easy": [
           {
+            "word": "Mustafa Kemal Atatürk",
+            "hint": "Türkiye Cumhuriyeti'nin kurucusu ve ilk cumhurbaşkanı."
+          },
+          {
             "word": "Buda",
             "hint": "Antik Hindistan'da yaşamış bir filozof, dilenci, meditasyoncu, ruhani öğretmen ve dini lider."
           },
           {
             "word": "Cher",
             "hint": "Amerikalı bir şarkıcı, oyuncu ve televizyon kişiliği."
+          },
+          {
+            "word": "Musa",
+            "hint": "İbrahimi dinlerde bir peygamber."
+          }
+        ],
+        "normal": [
+          {
+            "word": "Albert Einstein",
+            "hint": "Görelilik teorisini geliştirdi."
+          },
+          {
+            "word": "Leonardo da Vinci",
+            "hint": "Mona Lisa'yı çizdi."
+          },
+          {
+            "word": "Isaac Newton",
+            "hint": "Tüm zamanların en etkili bilim adamlarından biri olarak kabul edilen İngiliz bir matematikçi, fizikçi, astronom, ilahiyatçı ve yazar."
+          },
+          {
+            "word": "Galileo Galilei",
+            "hint": "Kozmos gözlemleri devrim niteliğinde olan İtalyan bir astronom, fizikçi ve mühendis."
+          },
+          {
+            "word": "Charles Darwin",
+            "hint": "Evrim bilimine yaptığı katkılarla en çok tanınan İngiliz bir doğa bilimci, jeolog ve biyolog."
+          },
+          {
+            "word": "Alan Turing",
+            "hint": "İngiliz bir matematikçi, bilgisayar bilimcisi, mantıkçı, kriptanalist, filozof ve teorik biyolog."
+          },
+          {
+            "word": "Alfred Hitchcock",
+            "hint": "İngiliz bir film yönetmeni, yapımcı ve senarist. Sinema tarihinde en etkili ve kapsamlı olarak incelenen film yapımcılarından biridir."
+          },
+          {
+            "word": "Benjamin Franklin",
+            "hint": "Amerika Birleşik Devletleri'nin Kurucu Babalarından biri olan, aynı zamanda önde gelen bir yazar, matbaacı, siyaset teorisyeni, politikacı, mason, postane müdürü, bilim adamı, mucit, mizahçı, sivil aktivist, devlet adamı ve diplomattı."
+          },
+          {
+            "word": "Backstreet Boys",
+            "hint": "1993'te Orlando, Florida'da kurulan Amerikalı bir vokal grubu."
+          },
+          {
+            "word": "Queen",
+            "hint": "1970'de Londra'da kurulan bir İngiliz rock grubu. Klasik kadroları Freddie Mercury (vokal, piyano), Brian May (gitar, vokal), Roger Taylor (davul, vokal) ve John Deacon'dan (bas) oluşuyordu."
           },
           {
             "word": "Laozi",
@@ -25,16 +75,6 @@
             "word": "Menes",
             "hint": "Klasik geleneğe göre Yukarı ve Aşağı Mısır'ı birleştirdiği ve Birinci Hanedanlığı kurduğu kabul edilen eski Mısır'ın Erken Hanedan Dönemi'nin bir firavunu."
           },
-          {
-            "word": "Musa",
-            "hint": "İbrahimi dinlerde bir peygamber."
-          },
-          {
-            "word": "Queen",
-            "hint": "1970'de Londra'da kurulan bir İngiliz rock grubu. Klasik kadroları Freddie Mercury (vokal, piyano), Brian May (gitar, vokal), Roger Taylor (davul, vokal) ve John Deacon'dan (bas) oluşuyordu."
-          }
-        ],
-        "normal": [
           {
             "word": "Abraham Lincoln",
             "hint": "1861'den 1865'teki suikastına kadar Amerika Birleşik Devletleri'nin 16. başkanı olarak görev yapan Amerikalı bir avukat ve devlet adamı."
@@ -350,24 +390,28 @@
         ],
         "difficult": [
           {
+            "word": "Marie Curie",
+            "hint": "Radyoaktivite araştırmalarında öncü olan, Nobel Ödülü kazanan ilk kadındı."
+          },
+          {
+            "word": "Büyük İskender",
+            "hint": "Antik Yunan krallığı Makedonya'nın bir kralı ve Argead hanedanının bir üyesi."
+          },
+          {
+            "word": "Julius Caesar",
+            "hint": "Roma Cumhuriyeti'nin çöküşüne ve Roma İmparatorluğu'nun yükselişine yol açan olaylarda kritik bir rol oynayan bir Roma generali ve devlet adamı."
+          },
+          {
+            "word": "Christopher Nolan",
+            "hint": "İngiliz-Amerikalı bir film yönetmeni, yapımcı ve senarist. Filmleri dünya çapında 5 milyar dolardan fazla hasılat yaptı ve 36 adaylıktan 11 Akademi Ödülü kazandı."
+          },
+          {
             "word": "Akira Kurosawa",
             "hint": "57 yıllık kariyerinde 30 film yöneten Japon bir film yönetmeni ve senarist."
           },
           {
-            "word": "Alan Turing",
-            "hint": "İngiliz bir matematikçi, bilgisayar bilimcisi, mantıkçı, kriptanalist, filozof ve teorik biyolog."
-          },
-          {
-            "word": "Albert Einstein",
-            "hint": "Görelilik teorisini geliştirdi."
-          },
-          {
             "word": "Alexander Fleming",
             "hint": "1928'de antibiyotik madde olan penisilini keşfetmesiyle tanınan İskoç bir hekim ve mikrobiyolog."
-          },
-          {
-            "word": "Alfred Hitchcock",
-            "hint": "İngiliz bir film yönetmeni, yapımcı ve senarist. Sinema tarihinde en etkili ve kapsamlı olarak incelenen film yapımcılarından biridir."
           },
           {
             "word": "Andrew Carnegie",
@@ -386,14 +430,6 @@
             "hint": "Hollanda bilim ve teknolojisinin Altın Çağı'nda bir Hollandalı işadamı ve bilim adamı."
           },
           {
-            "word": "Backstreet Boys",
-            "hint": "1993'te Orlando, Florida'da kurulan Amerikalı bir vokal grubu."
-          },
-          {
-            "word": "Benjamin Franklin",
-            "hint": "Amerika Birleşik Devletleri'nin Kurucu Babalarından biri olan, aynı zamanda önde gelen bir yazar, matbaacı, siyaset teorisyeni, politikacı, mason, postane müdürü, bilim adamı, mucit, mizahçı, sivil aktivist, devlet adamı ve diplomattı."
-          },
-          {
             "word": "Blaise Pascal",
             "hint": "Fransız bir matematikçi, fizikçi, mucit, yazar ve Katolik ilahiyatçı."
           },
@@ -402,24 +438,12 @@
             "hint": "İlk Pers İmparatorluğu olan Ahameniş İmparatorluğu'nun kurucusu."
           },
           {
-            "word": "Büyük İskender",
-            "hint": "Antik Yunan krallığı Makedonya'nın bir kralı ve Argead hanedanının bir üyesi."
-          },
-          {
             "word": "Charles Babbage",
             "hint": "İngiliz bir polimat."
           },
           {
-            "word": "Charles Darwin",
-            "hint": "Evrim bilimine yaptığı katkılarla en çok tanınan İngiliz bir doğa bilimci, jeolog ve biyolog."
-          },
-          {
             "word": "Charles Dickens",
             "hint": "İngiliz bir yazar ve sosyal eleştirmen. Dünyanın en tanınmış kurgusal karakterlerinden bazılarını yarattı ve birçokları tarafından Viktorya döneminin en büyük romancısı olarak kabul ediliyor."
-          },
-          {
-            "word": "Christopher Nolan",
-            "hint": "İngiliz-Amerikalı bir film yönetmeni, yapımcı ve senarist. Filmleri dünya çapında 5 milyar dolardan fazla hasılat yaptı ve 36 adaylıktan 11 Akademi Ödülü kazandı."
           },
           {
             "word": "Clara Barton",
@@ -482,10 +506,6 @@
             "hint": "Çalışmaları modern entelektüel tarih üzerinde derin bir etki yaratan Alman bir filozof, kültür eleştirmeni, besteci, şair ve filolog."
           },
           {
-            "word": "Galileo Galilei",
-            "hint": "Kozmos gözlemleri devrim niteliğinde olan İtalyan bir astronom, fizikçi ve mühendis."
-          },
-          {
             "word": "George Lucas",
             "hint": "Amerikalı bir film yönetmeni, yapımcı, senarist ve girişimci. Star Wars ve Indiana Jones serilerini yaratması ve Lucasfilm, LucasArts ve Industrial Light & Magic'i kurmasıyla tanınır."
           },
@@ -528,10 +548,6 @@
           {
             "word": "I. Kraliçe Elizabeth",
             "hint": "17 Kasım 1558'den 1603'teki ölümüne kadar İngiltere ve İrlanda Kraliçesi."
-          },
-          {
-            "word": "Isaac Newton",
-            "hint": "Tüm zamanların en etkili bilim adamlarından biri olarak kabul edilen İngiliz bir matematikçi, fizikçi, astronom, ilahiyatçı ve yazar."
           },
           {
             "word": "Ivan Pavlov",
@@ -590,10 +606,6 @@
             "hint": "1920'lerin ortalarından 1953'e kadar Sovyetler Birliği Komünist Partisi Genel Sekreteri (1922-1952) ve Başbakan (1941-1953) olarak Sovyetler Birliği'ni yöneten Gürcü bir devrimci ve Sovyet politikacısı."
           },
           {
-            "word": "Julius Caesar",
-            "hint": "Roma Cumhuriyeti'nin çöküşüne ve Roma İmparatorluğu'nun yükselişine yol açan olaylarda kritik bir rol oynayan bir Roma generali ve devlet adamı."
-          },
-          {
             "word": "Kraliçe I. Elizabeth",
             "hint": "17 Kasım 1558'den 1603'teki ölümüne kadar İngiltere ve İrlanda Kraliçesi."
           },
@@ -610,10 +622,6 @@
             "hint": "Pisa Cumhuriyeti'nden İtalyan bir matematikçi, 'Orta Çağ'ın en yetenekli Batılı matematikçisi' olarak kabul edilir."
           },
           {
-            "word": "Leonardo da Vinci",
-            "hint": "Mona Lisa'yı çizdi."
-          },
-          {
             "word": "Lionel Messi",
             "hint": "Ligue 1 kulübü Paris Saint-Germain'de forvet olarak oynayan ve Arjantin milli takımının kaptanlığını yapan Arjantinli bir profesyonel futbolcu."
           },
@@ -628,10 +636,6 @@
           {
             "word": "Malala Yousafzai",
             "hint": "Kadınların eğitimi için Pakistanlı bir aktivist ve en genç Nobel Ödülü sahibi."
-          },
-          {
-            "word": "Marie Curie",
-            "hint": "Radyoaktivite araştırmalarında öncü olan, Nobel Ödülü kazanan ilk kadındı."
           },
           {
             "word": "Martin Luther King Jr.",
@@ -1448,6 +1452,27 @@
             "hint": "Tropikal Afrika'nın orman ve savanalarına özgü bir büyük maymun türü."
           }
         ],
+        "easy": [
+          {
+            "word": "Penguen",
+            "hint": "Güney Yarımküre'de, özellikle Antarktika'da yaşayan uçamayan bir kuş."
+          },
+          {
+            "word": "Japon Balığı",
+            "hint": "Genellikle bir kasede veya akvaryumda evcil hayvan olarak beslenen küçük, turuncu renkli bir tatlı su balığı."
+          },
+          {
+            "word": "Yunus",
+            "hint": "Oyunbaz davranışlarıyla tanınan son derece zeki bir deniz memelisi."
+          },
+          {
+            "word": "Panda",
+            "hint": "Güney orta Çin'e özgü, siyah beyaz postu ve bambu diyetiyle bilinen bir ayı."
+          },
+          {
+            "word": "Zebra",
+            "hint": "Ayırt edici siyah-beyaz çizgili postları olan bir Afrika atı."
+          },
         "difficult": [
           {
             "word": "Amerika Papağanı",
@@ -1492,10 +1517,6 @@
           {
             "word": "Hamamböceği",
             "hint": "Termitleri de içeren Blattodea takımından böcekler."
-          },
-          {
-            "word": "Japon Balığı",
-            "hint": "Genellikle bir kasede veya akvaryumda evcil hayvan olarak beslenen küçük, turuncu renkli bir tatlı su balığı."
           },
           {
             "word": "Kara Kurbağası",
@@ -2220,6 +2241,42 @@
             "hint": "Çin'in en kalabalık şehri, önemli bir ticaret ve finans merkezidir."
           }
         ],
+        "easy": [
+          {
+            "word": "İstanbul",
+            "hint": "Türkiye'de Boğaziçi'ni aşarak Avrupa ve Asya'yı birleştiren büyük bir şehir."
+          },
+          {
+            "word": "New York",
+            "hint": "Özgürlük Heykeli ve Times Meydanı gibi ikonik simge yapılarıyla bilinen Amerika Birleşik Devletleri'nin en kalabalık şehri."
+          },
+          {
+            "word": "Özgürlük Heykeli",
+            "hint": "Amerika Birleşik Devletleri'nde New York şehrinde New York Limanı'ndaki Liberty Adası'nda devasa bir neoklasik heykel."
+          },
+          {
+            "word": "Eyfel Kulesi",
+            "hint": "Paris, Fransa'da Champ de Mars'ta bir ferforje kafes kulesi."
+          },
+          {
+            "word": "Kolezyum",
+            "hint": "İtalya'nın Roma şehrinin merkezinde, Roma Forumu'nun hemen doğusunda oval bir amfitiyatro."
+          },
+        "normal": [
+            "hint": "Türkiye'de Boğaziçi'ni aşarak Avrupa ve Asya'yı birleştiren büyük bir şehir."
+          },
+          {
+            "word": "Los Angeles",
+            "hint": "Hollywood ve eğlence endüstrisine ev sahipliği yapan Kaliforniya'nın en büyük şehri."
+          },
+          {
+            "word": "Buenos Aires",
+            "hint": "Tango müziği ve dansıyla ünlü Arjantin'in başkenti."
+          },
+          {
+            "word": "Rio de Janeiro",
+            "hint": "Brezilya'da devasa bir sahil kenti, Copacabana ve Ipanema plajlarıyla ünlüdür."
+          },
         "difficult": [
           {
             "word": "Antananarivo",
@@ -2228,10 +2285,6 @@
           {
             "word": "Belo Horizonte",
             "hint": "Brezilya'nın Minas Gerais eyaletinin başkenti."
-          },
-          {
-            "word": "Buenos Aires",
-            "hint": "Tango müziği ve dansıyla ünlü Arjantin'in başkenti."
           },
           {
             "word": "Dar es Salaam",
@@ -2262,10 +2315,6 @@
             "hint": "Kuveyt'in başkenti."
           },
           {
-            "word": "Los Angeles",
-            "hint": "Hollywood ve eğlence endüstrisine ev sahipliği yapan Kaliforniya'nın en büyük şehri."
-          },
-          {
             "word": "Machu Picchu",
             "hint": "Güney Peru'nun Doğu Cordillera'sında, 2.430 metrelik (7.970 ft) bir dağ sırtında bulunan 15. yüzyıldan kalma bir İnka kalesi."
           },
@@ -2278,16 +2327,8 @@
             "hint": "Trinidad ve Tobago'nun başkenti."
           },
           {
-            "word": "Rio de Janeiro",
-            "hint": "Brezilya'da devasa bir sahil kenti, Copacabana ve Ipanema plajlarıyla ünlüdür."
-          },
-          {
             "word": "Zümrüt Şehir",
             "hint": "L. Frank Baum'un Oz kitaplarında kurgusal Oz Ülkesi'nin başkenti."
-          },
-          {
-            "word": "Özgürlük Heykeli",
-            "hint": "Amerika Birleşik Devletleri'nde New York şehrinde New York Limanı'ndaki Liberty Adası'nda devasa bir neoklasik heykel."
           }
         ]
       }
@@ -5892,6 +5933,12 @@
       "levels": {
         "easy": [
           {
+            "word": "Tarkan",
+            "hint": "Pop müziğin 'Megastar'ı olarak bilinen, uluslararası üne sahip şarkıcı."
+          }
+        ],
+        "normal": [
+          {
             "word": "Doğuş",
             "hint": "90'lar pop müziğinin tanınmış isimlerinden biri."
           },
@@ -5910,9 +5957,7 @@
           {
             "word": "İzel",
             "hint": "90'lar Türk popunun en önemli kadın vokallerinden, İzel-Çelik-Ercan grubunun eski üyesi."
-          }
-        ],
-        "normal": [
+          },
           {
             "word": "Ahmet Kaya",
             "hint": "Özgün müzik ve protest müziğin önemli isimlerinden, şarkıcı ve besteci."
